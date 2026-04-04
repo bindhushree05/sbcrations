@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <h3 className="font-serif text-2xl text-primary mb-3">Royal Weave</h3>
+            <h3 className="font-serif text-2xl text-primary mb-3">SB Creations</h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Your destination for premium men's fabrics. Quality, style, and elegance in every thread.
             </p>
