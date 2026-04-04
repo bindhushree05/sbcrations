@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-3xl mx-auto text-center mb-16">
           <p className="text-primary uppercase tracking-[0.3em] text-sm mb-3">Our Story</p>
           <h2 className="font-serif text-3xl md:text-5xl text-royal-black mb-6">
-            About <span className="text-primary">Royal Weave</span>
+            About <span className="text-primary">SB Creations</span>
           </h2>
           <p className="text-muted-foreground text-lg leading-relaxed">
             At Royal Weave, we believe that every gentleman deserves the finest fabrics. With years of expertise in sourcing
