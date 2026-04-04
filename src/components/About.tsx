@@ -10,7 +10,7 @@ const About = () => {
             About <span className="text-primary">SB Creations</span>
           </h2>
           <p className="text-muted-foreground text-lg leading-relaxed">
-            At Royal Weave, we believe that every gentleman deserves the finest fabrics. With years of expertise in sourcing
+            At SB Creations, we believe that every gentleman deserves the finest fabrics. With years of expertise in sourcing
             premium textiles from around the world, we bring you an unparalleled collection of suiting, shirting, and ethnic
             wear fabrics that blend tradition with contemporary style.
           </p>

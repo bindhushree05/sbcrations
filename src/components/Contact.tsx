@@ -85,7 +85,7 @@ const Contact = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Royal Weave Store Location"
+              title="SB Creations Store Location"
             />
           </div>
 

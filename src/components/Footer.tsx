@@ -58,7 +58,7 @@ const Footer = () => {
 
         <div className="border-t border-primary/10 pt-8 text-center">
           <p className="text-muted-foreground text-sm">
-            © {new Date().getFullYear()} Royal Weave. All rights reserved.
+            © {new Date().getFullYear()} SB Creations. All rights reserved.
           </p>
         </div>
       </div>

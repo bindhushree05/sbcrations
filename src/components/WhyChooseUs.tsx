@@ -30,7 +30,7 @@ const WhyChooseUs = () => {
         <div className="text-center mb-16">
           <p className="text-primary uppercase tracking-[0.3em] text-sm mb-3">Our Promise</p>
           <h2 className="font-serif text-3xl md:text-5xl text-royal-black mb-4">
-            Why Choose <span className="text-primary">Royal Weave</span>
+            Why Choose <span className="text-primary">SB Creations</span>
           </h2>
         </div>
 
