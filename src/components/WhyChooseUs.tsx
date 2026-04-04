@@ -19,7 +19,7 @@ const features = [
   {
     icon: Users,
     title: "Trusted by Customers",
-    desc: "Thousands of happy customers trust Royal Weave for their fabric needs. Quality and service that speaks for itself.",
+    desc: "Thousands of happy customers trust SB Creations for their fabric needs. Quality and service that speaks for itself.",
   },
 ];
 
